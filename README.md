@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there👋. I'm Saber! Welcome to my Github page.🤝
+I love AI, Python and French lang as I live with them.💙 Also i can develop Android apps.💚
+- 🔭 I’m currently working on a Python project.
+- 🌱 I’m currently learning AI and ML.
+- 📫 How to reach me: [Twitter](https://twitter.com/saber__im)
 <!--
 **sabermsvi/sabermsvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
