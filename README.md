@@ -1,7 +1,7 @@
 ### Hi there👋. I'm Saber! Welcome to my Github page.🤝
 ![image-asset](https://github.com/sabermsvi/sabermsvi/assets/79202840/f1cd6d98-4df3-439f-b526-3831a333a0b6)
 
-I love AI, Python and French lang as I live with them.💙 Also i can develop Android apps.💚
+I love AI, Python. Also i can develop Android apps.
 - 🔭 I’m currently working on a Python project.
 - 🌱 I’m currently learning AI and ML.
 - 📫 How to reach me: 
